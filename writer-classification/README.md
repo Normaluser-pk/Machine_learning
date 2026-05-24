@@ -4,7 +4,7 @@
 
 This project adopts the following machine learning pipeline:
 
-![Project Pipeline](images/pipeline.png)
+![Project Pipeline](images/Pipeline_for_writer_classification.png)
 
 ## Preprocessing
 
