@@ -4,7 +4,7 @@
 
 This project adopts the following machine learning pipeline:
 
-![image.png](attachment:image.png)
+![Project Pipeline](images/pipeline.png)
 
 ## Preprocessing
 
